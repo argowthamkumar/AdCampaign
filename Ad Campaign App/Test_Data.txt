@@ -1,0 +1,26 @@
+--------- Partner1 Campain 1--------------------
+{"partner_id":"123",
+"duration":90,
+"ad_content":"Campaign1_1"
+}
+--------- Partner1 Campain 2--------------------
+{"partner_id":"123",
+"duration":180,
+"ad_content":"Campaign1_2"
+}
+--------- Partner1 Campain 3--------------------
+{"partner_id":"123",
+"duration":30,
+"ad_content":"Campaign1_3"
+}
+--------- Partner2 Campain 1--------------------
+{"partner_id":"456",
+"duration":20,
+"ad_content":"Campaign2_1"
+}
+--------- Partner2 Campain 2--------------------
+{"partner_id":"456",
+"duration":40,
+"ad_content":"Campaign2_2"
+}
+
